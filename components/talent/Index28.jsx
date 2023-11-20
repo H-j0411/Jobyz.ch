@@ -9,7 +9,7 @@ import { useTranslation } from "react-i18next";
 
 
 const index10 = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
   return (
     <>
       <LoginPopup />
