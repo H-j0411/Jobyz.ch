@@ -3,7 +3,7 @@ import Blog from "../blog/Blog";
 import LoginPopup from "../common/form/login/LoginPopup";
 import FooterDefault from "../footer/common-footer";
 import MobileMenu from "../header/MobileMenu";
-import Hero13 from "../hero/hero-13/Index10";
+import Hero13 from "../hero/hero-13/index10";
 import JobFeatured6 from "../job-featured/JobFeatured6";
 import TopCompany from "../top-company/TopCompany";
 import Header from "./Header";
